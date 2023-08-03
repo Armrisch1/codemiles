@@ -146,8 +146,13 @@
 }
 @media (max-width: 767px) {
   .logo_cont {
-    margin: 60px auto 0;
-    height: 47px;
+    width: 55%;
+    height: 30px;
+    margin: 45px auto 0;
+  }
+  .mile_cont {
+    width: 76%;
+    margin-top: 20px;
   }
   .main_section {
     margin: 45px auto 0;
