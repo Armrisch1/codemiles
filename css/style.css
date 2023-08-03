@@ -62,6 +62,9 @@
   height: 60px;
   margin-right: 15px;
 }
+.main_section .insta_fb_in_cont > a img {
+  width: 100%;
+}
 .main_section .coming_soon {
   color: #061E5C;
   font-size: 44px;
@@ -99,6 +102,10 @@
     font-size: 37px;
     margin: 40px auto 120px;
   }
+  .main_section .coming_soon {
+    font-size: 37px;
+    margin: 51px auto 20px;
+  }
 }
 @media (max-width: 991px) {
   .logo_cont {
@@ -132,6 +139,10 @@
     font-size: 27px;
     margin: 30px auto 100px;
   }
+  .main_section .coming_soon {
+    font-size: 27px;
+    margin: 40px auto 15px;
+  }
 }
 @media (max-width: 767px) {
   .logo_cont {
@@ -145,7 +156,7 @@
     font-size: 19px;
   }
   .main_section p {
-    font-size: 14px;
+    font-size: 12px;
   }
   .main_section .codemiles_org {
     font-size: 19px;
@@ -164,6 +175,11 @@
   .main_section h3 {
     font-size: 20px;
     margin: 25px auto 80px;
+  }
+  .main_section .coming_soon {
+    font-size: 20px;
+    margin: 25px auto 15px;
+    font-weight: 100;
   }
 }
 
